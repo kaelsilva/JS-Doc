@@ -8,7 +8,7 @@ myImage.onclick = function() {
       myTitle.innerText = 'Teatro';
     } else {
       myImage.setAttribute ('src','images/firefox-icon.png');
-      myTitle.innerText = 'Chance';
+      myTitle.innerText = 'Mozilla';
     }
 }
 
